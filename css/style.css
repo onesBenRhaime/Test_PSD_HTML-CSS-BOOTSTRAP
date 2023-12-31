@@ -1,0 +1,39 @@
+.body{
+    overflow-x: hidden;
+    color: #505962;
+
+}
+.logo{
+    margin-left: 350px;
+    width: auto;
+
+}
+.btn-outline-red {
+    border: 2px solid red; /* Red border for outlined appearance */
+    color: red; /* Text color might also be red */
+}
+
+.txt{
+
+    text-transform: uppercase;
+    margin-left: 350px;
+    width: auto;
+ 
+}
+
+
+/*============= FOOTER =============*/
+.social{
+    list-style:none;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 40rem;
+    margin: 12px auto;
+    font-size: 2rem;
+   }
+  .social i{
+    color: rgb(0, 0, 0);
+    }
+  
+
